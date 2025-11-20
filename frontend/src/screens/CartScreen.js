@@ -135,7 +135,7 @@ const CartScreen = () => {
 								colorScheme="teal"
 								bgColor="gray.800"
 								onClick={checkoutHandler}>
-								Proceed to checkout
+								Proceed to Checkout
 							</Button>
 						</Flex>
 					</Grid>
