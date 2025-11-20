@@ -30,12 +30,9 @@
 		"express-async-handler": "^1.2.0",
 		"jsonwebtoken": "^9.0.0",
 		"mongoose": "^7.2.1",
-<<<<<<< HEAD
 		"multer": "^1.4.5-lts.1",
-		"react-scripts": "^5.0.1"
-=======
+		"react-scripts": "^5.0.1",
 		"multer": "^1.4.5-lts.1"
->>>>>>> a7deec4a9ebc26b9c9b5d5be72d1a0eaafa4894b
 	},
 	"devDependencies": {
 		"concurrently": "^8.0.1",
